@@ -1,0 +1,2 @@
+PyAudio
+websocket_client
